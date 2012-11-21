@@ -10,7 +10,7 @@
  * ---------
  * License : MIT
  */
-(function (mod, exp) {
+(function () {
     "use strict";
     // Variables
     var iterator, len, root = this,
