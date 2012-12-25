@@ -1,4 +1,4 @@
 geohash-commonjs
 =====
 
-Temporary message...
+Move to https://github.com/ryugoo/js-geohash
